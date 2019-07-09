@@ -1,0 +1,407 @@
+[
+  {
+    "title": "蜘蛛侠：英雄远征",
+    "score": "8.2",
+    "duration": "127分钟",
+    "region": "美国",
+    "director": "乔·沃茨",
+    "actors": "汤姆·赫兰德 / 赞达亚 / 杰克·吉伦哈尔",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2558293106.jpg"
+  },
+  {
+    "title": "千与千寻",
+    "score": "9.3",
+    "duration": "125分钟",
+    "region": "日本",
+    "director": "宫崎骏",
+    "actors": "柊瑠美 / 入野自由 / 夏木真理",
+    "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557573348.jpg"
+  },
+  {
+    "title": "碟仙",
+    "score": "5.5",
+    "duration": "83分钟",
+    "region": "中国大陆",
+    "director": "廉涛",
+    "actors": "黄奕 / 范逸臣 / 程小夏",
+    "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559111658.jpg"
+  },
+  {
+    "title": "玩具总动员4",
+    "score": "8.8",
+    "duration": "100分钟",
+    "region": "美国",
+    "director": "乔什·库雷",
+    "actors": "汤姆·汉克斯 / 蒂姆·艾伦 / 安妮·波茨",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2557284230.jpg"
+  },
+  {
+    "title": "八子",
+    "score": "0",
+    "duration": "120分钟",
+    "region": "中国大陆",
+    "director": "高希希",
+    "actors": "刘端端 / 邵兵 / 岳红",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2557265183.jpg"
+  },
+  {
+    "title": "绝杀慕尼黑",
+    "score": "8.3",
+    "duration": "120分钟(中国大陆)",
+    "region": "俄罗斯",
+    "director": "安东·梅格尔季切夫",
+    "actors": "弗拉基米尔·马什科夫 / 约翰·萨维奇 / 马拉特·巴沙罗夫",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2556883031.jpg"
+  },
+  {
+    "title": "黑衣人：全球追缉",
+    "score": "5.7",
+    "duration": "115分钟",
+    "region": "美国",
+    "director": "F·加里·格雷",
+    "actors": "克里斯·海姆斯沃斯 / 泰莎·汤普森 / 丽贝卡·弗格森",
+    "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2558701068.jpg"
+  },
+  {
+    "title": "最好的我们",
+    "score": "5.7",
+    "duration": "110分钟",
+    "region": "中国大陆",
+    "director": "章笛沙",
+    "actors": "陈飞宇 / 何蓝逗 / 惠英红",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2557157554.jpg"
+  },
+  {
+    "title": "X战警：黑凤凰",
+    "score": "6.0",
+    "duration": "114分钟",
+    "region": "美国",
+    "director": "西蒙·金伯格",
+    "actors": "苏菲·特纳 / 詹姆斯·麦卡沃伊 / 迈克尔·法斯宾德",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2555886490.jpg"
+  },
+  {
+    "title": "哥斯拉2：怪兽之王",
+    "score": "6.4",
+    "duration": "132分钟",
+    "region": "美国",
+    "director": "迈克尔·道赫蒂",
+    "actors": "凯尔·钱德勒 / 维拉·法米加 / 米莉·波比·布朗",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2554370800.jpg"
+  },
+  {
+    "title": "追龙Ⅱ",
+    "score": "5.7",
+    "duration": "103分钟",
+    "region": "香港 中国大陆",
+    "director": "王晶 关智耀",
+    "actors": "梁家辉 / 古天乐 / 林家栋",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2558294190.jpg"
+  },
+  {
+    "title": "潜行者",
+    "score": "0",
+    "duration": "90分钟",
+    "region": "中国大陆 香港",
+    "director": "吕冠南 谭广源",
+    "actors": "伍允龙 / 吴建豪 / 安志杰",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2559500023.jpg"
+  },
+  {
+    "title": "逆流大叔",
+    "score": "6.8",
+    "duration": "92分钟",
+    "region": "香港",
+    "director": "陈咏燊",
+    "actors": "吴镇宇 / 潘灿良 / 黄德斌",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2560920854.jpg"
+  },
+  {
+    "title": "哆啦A梦：大雄的月球探险记",
+    "score": "7.4",
+    "duration": "111分钟",
+    "region": "日本",
+    "director": "八锹新之介",
+    "actors": "水田山葵 / 大原惠美 / 嘉数由美",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2557500825.jpg"
+  },
+  {
+    "title": "妈阁是座城",
+    "score": "5.8",
+    "duration": "127分钟",
+    "region": "中国大陆",
+    "director": "李少红",
+    "actors": "白百何 / 黄觉 / 吴刚",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2557267786.jpg"
+  },
+  {
+    "title": "尺八·一声一世",
+    "score": "8.1",
+    "duration": "90分钟",
+    "region": "中国大陆",
+    "director": "聿馨",
+    "actors": "佐藤康夫 / 小凑昭尚 / 蔡鸿文",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2555688403.jpg"
+  },
+  {
+    "title": "托马斯大电影之世界探险记",
+    "score": "7.1",
+    "duration": "85分钟",
+    "region": "英国",
+    "director": "大卫·斯特登",
+    "actors": "约瑟夫·梅 / 泰莉莎·加拉赫 / 凯瑞·莎勒",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2554478586.jpg"
+  },
+  {
+    "title": "监护风云",
+    "score": "7.3",
+    "duration": "93分钟",
+    "region": "法国",
+    "director": "泽维尔·勒格朗",
+    "actors": "蕾雅·德吕盖 / 德尼·梅诺谢 / 托马斯·乔里亚",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2560052923.jpg"
+  },
+  {
+    "title": "我的青春都是你",
+    "score": "3.8",
+    "duration": "92分钟",
+    "region": "中国大陆 台湾",
+    "director": "周彤 代梦颖",
+    "actors": "宋芸桦 / 宋威龙 / 林妍柔",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2553778873.jpg"
+  },
+  {
+    "title": "学区房72小时",
+    "score": "7.0",
+    "duration": "99分钟",
+    "region": "中国大陆",
+    "director": "陈晓鸣",
+    "actors": "管轩 / 徐幸 / 傅淼",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2560837532.jpg"
+  },
+  {
+    "title": "秦明·生死语者",
+    "score": "4.4",
+    "duration": "104分钟",
+    "region": "中国大陆",
+    "director": "李海蜀 黄彦威",
+    "actors": "严屹宽 / 代斯 / 耿乐",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2558290293.jpg"
+  },
+  {
+    "title": "真相漩涡",
+    "score": "5.9",
+    "duration": "100分钟",
+    "region": "美国 瑞典",
+    "director": "西蒙·凯瑟",
+    "actors": "皮尔斯·布鲁斯南 / 盖·皮尔斯 / 明妮·德里弗",
+    "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2558537498.jpg"
+  },
+  {
+    "title": "周恩来回延安",
+    "score": "6.9",
+    "duration": "103分钟",
+    "region": "中国大陆",
+    "director": "吴卫东 刘劲",
+    "actors": "刘劲 / 唐国强 / 卢奇",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2553832372.jpg"
+  },
+  {
+    "title": "猪猪侠·不可思议的世界",
+    "score": "0",
+    "duration": "",
+    "region": "中国大陆",
+    "director": "陆锦明 钟彧",
+    "actors": "",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2560664101.jpg"
+  },
+  {
+    "title": "你咪理，我爱你！",
+    "score": "5.1",
+    "duration": "88分钟",
+    "region": "香港",
+    "director": "王祖蓝",
+    "actors": "王祖蓝 / 曾志伟 / 毛舜筠",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2559838292.jpg"
+  },
+  {
+    "title": "好小子，好功夫",
+    "score": "0",
+    "duration": "93分钟",
+    "region": "中国大陆",
+    "director": "崔喆 胡方易 李木子",
+    "actors": "巩汉林 / 孙茜 / 林威",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2541576654.jpg"
+  },
+  {
+    "title": "上海的女儿",
+    "score": "0",
+    "duration": "90分钟",
+    "region": "中国大陆 美国",
+    "director": "陈苗",
+    "actors": "周采芹",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2555602094.jpg"
+  },
+  {
+    "title": "花儿与歌声",
+    "score": "0",
+    "duration": "93分钟",
+    "region": "中国大陆",
+    "director": "王蕾",
+    "actors": "魏歆惠 / 刘晨毅 / 王润泽",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2556888543.jpg"
+  },
+  {
+    "title": "噬魂剑",
+    "score": "0",
+    "duration": "80分钟",
+    "region": "中国大陆",
+    "director": "李飞",
+    "actors": "黄军荣 / 余丽 / 马永康",
+    "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557863379.jpg"
+  },
+  {
+    "title": "巧虎大飞船历险记",
+    "score": "0",
+    "duration": "80分钟",
+    "region": "中国大陆",
+    "director": "河村友宏 王臻",
+    "actors": "李晔 / 沈达威 / 罗玉婷",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2558138294.jpg"
+  },
+  {
+    "title": "潜艇总动员：外星宝贝计划",
+    "score": "0",
+    "duration": "77分钟",
+    "region": "中国大陆",
+    "director": "申宇 张超",
+    "actors": "范楚绒 / 洪海天 / 李晔",
+    "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557377407.jpg"
+  },
+  {
+    "title": "港珠澳大桥",
+    "score": "0",
+    "duration": "70分钟",
+    "region": "中国大陆 香港 澳门",
+    "director": "闫东",
+    "actors": "",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2554017175.jpg"
+  },
+  {
+    "title": "大河唱",
+    "score": "8.1",
+    "duration": "98分钟",
+    "region": "中国大陆",
+    "director": "柯永权 杨植淳 和渊",
+    "actors": "苏阳 / 刘世凯 / 张进来",
+    "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560744988.jpg"
+  },
+  {
+    "title": "罗马",
+    "score": "8.2",
+    "duration": "135分钟",
+    "region": "墨西哥 美国",
+    "director": "阿方索·卡隆",
+    "actors": "雅利扎·阿巴里西奥 / 玛丽娜·德·塔维拉 / 迭戈·科蒂娜·奥特里",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2555541430.jpg"
+  },
+  {
+    "title": "小森林 夏秋篇",
+    "score": "9.0",
+    "duration": "111分钟",
+    "region": "日本",
+    "director": "森淳一",
+    "actors": "桥本爱 / 三浦贵大 / 松冈茉优",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2221319641.jpg"
+  },
+  {
+    "title": "路边野餐",
+    "score": "7.8",
+    "duration": "110分钟",
+    "region": "中国大陆",
+    "director": "毕赣",
+    "actors": "陈永忠 / 谢理循 / 余世学",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2366570716.jpg"
+  },
+  {
+    "title": "进京城",
+    "score": "6.9",
+    "duration": "113分钟",
+    "region": "中国大陆",
+    "director": "胡玫",
+    "actors": "马伊琍 / 富大龙 / 马敬涵",
+    "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554883629.jpg"
+  },
+  {
+    "title": "大侦探皮卡丘",
+    "score": "6.6",
+    "duration": "104分钟",
+    "region": "美国 日本",
+    "director": "罗伯·莱特曼",
+    "actors": "瑞恩·雷诺兹 / 贾斯蒂斯·史密斯 / 凯瑟琳·纽顿",
+    "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555538168.jpg"
+  },
+  {
+    "title": "星月夜",
+    "score": "0",
+    "duration": "93分钟",
+    "region": "中国大陆",
+    "director": "梁善峻 罗阳",
+    "actors": "庄心妍 / 严丹彤 / 吴文超",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2558717993.jpg"
+  },
+  {
+    "title": "废柴老爸",
+    "score": "0",
+    "duration": "90分钟",
+    "region": "中国大陆",
+    "director": "冯超",
+    "actors": "王迅 / 黄灿灿 / 梁超",
+    "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2556883839.jpg"
+  },
+  {
+    "title": "无所不能",
+    "score": "7.1",
+    "duration": "133分钟",
+    "region": "印度",
+    "director": "桑吉·古普塔",
+    "actors": "赫里尼克·罗斯汉 / 亚米·高塔姆 / 洛尼特·罗伊",
+    "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557589889.jpg"
+  },
+  {
+    "title": "音乐家",
+    "score": "7.2",
+    "duration": "104分钟",
+    "region": "中国大陆 哈萨克斯坦",
+    "director": "西尔扎提·亚合甫",
+    "actors": "胡军 / 袁泉 / 别里克·艾特占诺夫",
+    "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2556763879.jpg"
+  },
+  {
+    "title": "卡拉斯：为爱而声",
+    "score": "8.1",
+    "duration": "118分钟(中国大陆)",
+    "region": "法国",
+    "director": "汤姆·沃尔夫",
+    "actors": "玛丽亚·卡拉斯 / 维托里奥·德西卡 / 亚里士多德·奥纳西斯",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2558617202.jpg"
+  },
+  {
+    "title": "白牙",
+    "score": "7.6",
+    "duration": "85分钟",
+    "region": "法国 卢森堡 美国",
+    "director": "亚历山大·埃斯皮加雷斯",
+    "actors": "拉斐尔·佩尔索纳 / 维尔日妮·埃菲拉 / 多米尼克·皮侬",
+    "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2557286943.jpg"
+  },
+  {
+    "title": "柏林苍穹下",
+    "score": "8.5",
+    "duration": "128分钟",
+    "region": "西德 法国",
+    "director": "维姆·文德斯",
+    "actors": "布鲁诺·甘茨 / 索尔维格·多马尔坦 / 奥托·山德尔",
+    "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792520149.jpg"
+  }
+]
