@@ -5,3 +5,6 @@
 b = "{1} haozongjie {0}"
 b = b.format('hello', 'hi')
 print(b)
+
+for i in ['hn','xb']:
+    print(i)
