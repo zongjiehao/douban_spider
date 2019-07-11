@@ -3,18 +3,22 @@
 # create_time: 2019/7/8
 
 import requests
+import time
 from bs4 import BeautifulSoup
 from pyecharts import Bar
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
-                  "Chrome/75.0.3770.100 Safari/537.36"
+                  "Chrome/75.0.3770.100 Safari/537.36",
+    'Connection': 'close'
 }
 
 ALL_DATA = []
 
 
 def parse_html(url):
+    requests.adapters.DEFAULT_RETRIES = 5
     response = requests.get(url, headers=HEADERS)
     text = response.content.decode('utf-8')
     soup = BeautifulSoup(text, 'html5lib')
