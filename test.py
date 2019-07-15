@@ -2,9 +2,7 @@
 # author:haozj 
 # create_time: 2019/6/30
 
-b = "{1} haozongjie {0}"
-b = b.format('hello', 'hi')
-print(b)
-
-for i in ['hn','xb']:
-    print(i)
+import re
+text = '+0731-8888888'
+res = re.match('[\d\-]+',text)
+print(res.group())
