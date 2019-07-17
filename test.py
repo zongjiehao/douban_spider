@@ -2,7 +2,7 @@
 # author:haozj 
 # create_time: 2019/6/30
 
-import re
-text = '+0731-8888888'
-res = re.match('[\d\-]+',text)
-print(res.group())
+
+
+a = [1,2,3.4]
+print(a[1]+a[2])
